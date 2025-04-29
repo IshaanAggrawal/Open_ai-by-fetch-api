@@ -8,4 +8,4 @@ This was a great hands-on experience with: ✅ DOM manipulation
 📽️ [Shared a quick screen recording demo below!]
 🔗 Always open to feedback and suggestions – drop your thoughts or connect if you're working on something similar! 👍
 
-https://ishaanaggrawal.github.io/Open_ai-by-frtch-api/
+https://ishaanaggrawal.github.io/Open_ai-by-fetch-api/
