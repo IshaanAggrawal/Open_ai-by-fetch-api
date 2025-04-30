@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const API_KEY = "AIzaSyDCotOh4uy5xcyEU5pmk5qg5f6UQM0dTF8";
+    const API_KEY = "Your api";
     const user_input = document.querySelector("#chatInput");
     const chat_form = document.querySelector("#chatForm");
     const chat_box = document.querySelector(".chat-box");
